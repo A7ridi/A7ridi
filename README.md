@@ -37,7 +37,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![AfterEffects](https://img.shields.io/badge/-AfterEffects-333333?style=flat&logo=adobe-after-effects)
-  ![PremierePro](https://img.shields.io/badge/-AfterEffects-333333?style=flat&logo=adobe-premiere-pro)
+  ![PremierePro](https://img.shields.io/badge/-PremierePro-333333?style=flat&logo=adobe-premiere-pro)
 
 <br/>
 
