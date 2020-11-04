@@ -40,9 +40,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/A7ridi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A7ridi&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7ridi&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -51,6 +51,6 @@
 
 <p align="center">
 <a href="https://www.afridii.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.afridii.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/afridiahmed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Afridi%20Ahmed-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/afridiahmed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Afridi%20Ahmed%-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:a7ridi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-a7ridi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
