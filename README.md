@@ -22,6 +22,7 @@
   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material-ui&logoColor=f4f4f4)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
