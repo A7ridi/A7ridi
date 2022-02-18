@@ -48,7 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.afridi.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.afridii.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.afridi.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.afridi.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/afridiahmed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Afridi%20Ahmed-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:a7ridi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-a7ridi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
