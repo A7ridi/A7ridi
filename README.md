@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Electronics and Telecommunication Engineering at Assam Engineering College, Guwahati(AS), India.
-- 💼 &nbsp; Freelancing as a Full Stack Web Developer .
+- 💼 &nbsp; Software Developer .
 - 🌱 &nbsp; Learning more about Systems Design and Artificial Intelligence/Machine Learning.
 - ✍️ &nbsp; Pursuing Graphic Design and Video Editing as hobbies/side hustles.
 
